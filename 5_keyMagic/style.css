@@ -1,0 +1,33 @@
+
+table,th,td {
+  border: 2px solid #08020c;
+  font-size: 30px;
+}
+
+.project {
+  background-color: #3b1845;
+  color: #0e0b0b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+}
+
+.color {
+  color: aliceblue;
+  display: flex;
+  flex-direction: row;
+}
+
+table{
+  height: 120px;
+  width: 400px;
+}
+
+#text{
+    background-color: #EFB6C8;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+}
